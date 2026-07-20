@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Bruno Alves 👋</h1>
 
-<!--
-**BrunoAlvees/BrunoAlvees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Computer Engineering student · Founder · Building things that ship
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://bruno.b-host.me"><img src="https://img.shields.io/badge/Portfolio-bruno.b--host.me-black?style=flat-square" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/bruno-alves-5347302a7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:bruno.barros.alves2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+I'm a final-year Computer Engineering student at UTAD, currently applying to Master's programmes in Software Engineering / Informatics Engineering. I like building products end-to-end — from infrastructure to UI — and I've spent the last few years doing that both as a founder and as a consultant.
+
+- 🛠️ Currently working as a **Technology Consultant** at Monteiros, building Linux infrastructure, automations, and an LLM-powered WhatsApp assistant
+- 🚀 Founder of **Gift Store**, an e-commerce laser cutting/engraving business with a custom React/Node.js stock and financial management system
+- 🎓 Developing **ProjectPilot**, a RAG-based conversational assistant for European project teams, in partnership with **INESC TEC HUMANISE**
+- 🏆 1st place at Code and Conquer / Code Masters 2023 hackathon (UTAD)
+- 💬 Ask me about self-hosted infra, automation pipelines, or turning a scrappy idea into a running business
+
+---
+
+### What I Work With
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
+  <img src="https://img.shields.io/badge/ChromaDB-6C3EF4?style=flat-square">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+</p>
+
+---
+
+### Featured Projects
+
+**[ProjectPilot](https://github.com/BrunoAlvees)** — RAG-based conversational assistant for European project teams, built with local LLMs (Ollama / Llama 3.1 8B), ChromaDB, and Docker Compose, with GDPR-conscious integrations for Microsoft Graph, Google Drive, and NextCloud. Developed with INESC TEC HUMANISE.
+
+**Gift Store** — E-commerce platform for laser cutting and engraving, built on WordPress/WooCommerce with a custom React/Node.js system for stock and financial management. Founded and run independently since 2023.
+
+**Academia Casa dos Avós** — Website built in React for [academiacasadosavos.pt](https://academiacasadosavos.pt), delivered as part of consulting work at Monteiros.
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoAlvees&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Bruno's GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlvees&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoAlvees&hide_border=true&theme=default" alt="GitHub Streak">
+</p>
+
+---
+
+<p align="center">
+  <i>📍 Vila Real, Portugal — open to work where technical decisions have real product and business impact.</i>
+</p>
