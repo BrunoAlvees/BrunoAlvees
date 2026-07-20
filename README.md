@@ -65,14 +65,6 @@ I hold a degree in Computer Engineering and I'm now doing my Master's at ISEP in
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoAlvees&theme=minimal&hide_border=true" alt="Activity Graph" width="90%">
-</p>
-
----
-
 <p align="center">
   <i>Open to work where technical decisions have real product and business impact.</i>
 </p>
