@@ -7,8 +7,7 @@
 <p align="center">
   <a href="https://bruno.b-host.me"><img src="https://img.shields.io/badge/Portfolio-bruno.b--host.me-black?style=flat-square" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/bruno-alves-5347302a7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:bruno.barros.alves2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=BrunoAlvees&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views">
+  <a href="mailto:ab.rafael.bruno@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
