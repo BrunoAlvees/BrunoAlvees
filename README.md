@@ -65,16 +65,7 @@ I hold a degree in Computer Engineering and I'm now doing my Master's at ISEP in
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoAlvees&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Bruno's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlvees&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BrunoAlvees&hide_border=true&theme=default" alt="GitHub Streak">
-</p>
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoAlvees&theme=minimal&hide_border=true" alt="Activity Graph" width="90%">
